@@ -1,0 +1,35 @@
+Target:  tensor(5)
+tensor(1.1285, grad_fn=<NllLossBackward0>)
+tensor(0.7504, grad_fn=<NllLossBackward0>)
+tensor(0.5796, grad_fn=<NllLossBackward0>)
+tensor(0.4537, grad_fn=<NllLossBackward0>)
+tensor(0.5066, grad_fn=<NllLossBackward0>)
+tensor(0.3188, grad_fn=<NllLossBackward0>)
+Traceback (most recent call last):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 76, in <module>
+    for batch_index_val, (image_val, label_val) in enumerate(val_loader):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 673, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 50, in fetch
+    data = self.dataset.__getitems__(possibly_batched_index)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataset.py", line 420, in __getitems__
+    return [self.dataset[self.indices[idx]] for idx in indices]
+            ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torchvision\datasets\mnist.py", line 146, in __getitem__
+    img = self.transform(img)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torchvision\transforms\transforms.py", line 95, in __call__
+    img = t(img)
+          ^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torchvision\transforms\transforms.py", line 137, in __call__
+    return F.to_tensor(pic)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torchvision\transforms\functional.py", line 174, in to_tensor
+    img = img.permute((2, 0, 1)).contiguous()
+          ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

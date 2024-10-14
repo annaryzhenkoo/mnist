@@ -1,0 +1,31 @@
+Target:  tensor(5)
+Epoch:  1
+Train accuracy:  tensor(0.7958)
+Val accuracy:  tensor(0.7928)
+Epoch:  2
+Train accuracy:  tensor(0.8511)
+Val accuracy:  tensor(0.8491)
+Epoch:  3
+Train accuracy:  tensor(0.8720)
+Val accuracy:  tensor(0.8651)
+Epoch:  4
+Train accuracy:  tensor(0.8840)
+Val accuracy:  tensor(0.8758)
+Epoch:  5
+Train accuracy:  tensor(0.8908)
+Val accuracy:  tensor(0.8822)
+Epoch:  6
+Train accuracy:  tensor(0.8941)
+Val accuracy:  tensor(0.8860)
+Epoch:  7
+Train accuracy:  tensor(0.8964)
+Val accuracy:  tensor(0.8888)
+Epoch:  8
+Train accuracy:  tensor(0.8978)
+Val accuracy:  tensor(0.8921)
+Epoch:  9
+Train accuracy:  tensor(0.8992)
+Val accuracy:  tensor(0.8943)
+Epoch:  10
+Train accuracy:  tensor(0.8996)
+Val accuracy:  tensor(0.8953)

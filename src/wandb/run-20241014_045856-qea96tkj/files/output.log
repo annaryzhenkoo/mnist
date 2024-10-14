@@ -1,0 +1,9 @@
+Target:  tensor(5)
+tensor(1.1478, grad_fn=<NllLossBackward0>)
+Epoch:  0
+My accuracy on train:  tensor(0.7988)
+Traceback (most recent call last):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 75, in <module>
+    print('Accuracy on validation: ', accruracy())
+                                      ^^^^^^^^^^^
+TypeError: accruracy() missing 2 required positional arguments: 'prediction' and 'label'

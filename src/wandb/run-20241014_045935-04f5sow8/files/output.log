@@ -1,0 +1,31 @@
+Target:  tensor(5)
+tensor(1.0552, grad_fn=<NllLossBackward0>)
+Epoch:  0
+My accuracy on train:  tensor(0.7935)
+tensor(0.7294, grad_fn=<NllLossBackward0>)
+Epoch:  1
+My accuracy on train:  tensor(0.8562)
+Traceback (most recent call last):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 66, in <module>
+    train_looop.train()
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 44, in train
+    for batch_index, (image, label) in enumerate(self.train_loader):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 673, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 55, in fetch
+    return self.collate_fn(data)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\_utils\collate.py", line 317, in default_collate
+    return collate(batch, collate_fn_map=default_collate_fn_map)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\_utils\collate.py", line 169, in collate
+    if not all(len(elem) == elem_size for elem in it):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\_utils\collate.py", line 169, in <genexpr>
+    if not all(len(elem) == elem_size for elem in it):
+               ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

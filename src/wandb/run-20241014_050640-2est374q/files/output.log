@@ -1,0 +1,34 @@
+Target:  tensor(5)
+Epoch:  0
+Train accuracy:  tensor(0.8106)
+Val accuracy:  tensor(0.8012)
+Epoch:  1
+Train accuracy:  tensor(0.8507)
+Val accuracy:  tensor(0.8421)
+Epoch:  2
+Train accuracy:  tensor(0.8743)
+Val accuracy:  tensor(0.8641)
+Epoch:  3
+Train accuracy:  tensor(0.8815)
+Val accuracy:  tensor(0.8731)
+Traceback (most recent call last):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 66, in <module>
+    train_looop.train()
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 44, in train
+    for batch_index, (image, label) in enumerate(self.train_loader):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataloader.py", line 673, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 50, in fetch
+    data = self.dataset.__getitems__(possibly_batched_index)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torch\utils\data\dataset.py", line 420, in __getitems__
+    return [self.dataset[self.indices[idx]] for idx in indices]
+            ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\.venv\Lib\site-packages\torchvision\datasets\mnist.py", line 139, in __getitem__
+    img, target = self.data[index], int(self.targets[index])
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

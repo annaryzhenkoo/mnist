@@ -1,0 +1,18 @@
+{"time":"2024-10-14T05:03:46.7620697+03:00","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-14T05:03:46.7620697+03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\wandb\\run-20241014_050346-is4tq1u8\\logs\\debug-core.log"}
+{"time":"2024-10-14T05:03:46.7631756+03:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-14T05:03:46.7749466+03:00","level":"INFO","msg":"created new stream","id":"is4tq1u8"}
+{"time":"2024-10-14T05:03:46.7749466+03:00","level":"INFO","msg":"stream: started","id":"is4tq1u8"}
+{"time":"2024-10-14T05:03:46.7749466+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"is4tq1u8"}}
+{"time":"2024-10-14T05:03:46.7749466+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"is4tq1u8"}}
+{"time":"2024-10-14T05:03:46.7754826+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"is4tq1u8"}}
+{"time":"2024-10-14T05:03:47.116638+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-14T05:03:47.1215116+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-14T05:04:39.5295661+03:00","level":"INFO","msg":"stream: closing","id":"is4tq1u8"}
+{"time":"2024-10-14T05:04:39.5300844+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-14T05:04:39.5300844+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-14T05:04:41.6927816+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-14T05:04:41.8923829+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"is4tq1u8"}}
+{"time":"2024-10-14T05:04:41.8923829+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"is4tq1u8"}}
+{"time":"2024-10-14T05:04:41.8923829+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"is4tq1u8"}}
+{"time":"2024-10-14T05:04:41.8929795+03:00","level":"INFO","msg":"stream: closed","id":"is4tq1u8"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-07T22:12:23.0928608+03:00","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-07T22:12:23.0933651+03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\wandb\\run-20241007_221223-dk9dlpo8\\logs\\debug-core.log"}
+{"time":"2024-10-07T22:12:23.1183291+03:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-07T22:12:23.1329456+03:00","level":"INFO","msg":"created new stream","id":"dk9dlpo8"}
+{"time":"2024-10-07T22:12:23.1334825+03:00","level":"INFO","msg":"stream: started","id":"dk9dlpo8"}
+{"time":"2024-10-07T22:12:23.1334825+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"dk9dlpo8"}}
+{"time":"2024-10-07T22:12:23.1334825+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"dk9dlpo8"}}
+{"time":"2024-10-07T22:12:23.1334825+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dk9dlpo8"}}
+{"time":"2024-10-07T22:12:23.5084798+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-07T22:12:23.5113098+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-07T22:14:48.1846111+03:00","level":"INFO","msg":"stream: closing","id":"dk9dlpo8"}
+{"time":"2024-10-07T22:14:48.1846111+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-07T22:14:48.1846111+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-07T22:14:48.8353476+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-07T22:14:49.0309479+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"dk9dlpo8"}}
+{"time":"2024-10-07T22:14:49.0309479+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"dk9dlpo8"}}
+{"time":"2024-10-07T22:14:49.0309479+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dk9dlpo8"}}
+{"time":"2024-10-07T22:14:49.0315098+03:00","level":"INFO","msg":"stream: closed","id":"dk9dlpo8"}

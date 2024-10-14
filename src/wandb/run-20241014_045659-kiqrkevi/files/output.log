@@ -1,0 +1,10 @@
+Target:  tensor(5)
+tensor(1.0428, grad_fn=<NllLossBackward0>)
+Traceback (most recent call last):
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 76, in <module>
+    wandb.log({'accuracy train': accruracy(all_pred, all_label),  'learning_rate': optimizer.param_groups[0]['lr']})
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\a_ryz\PycharmProjects\MNIST_Anna\src\train.py", line 53, in accruracy
+    prediction = prediction.argmax(dim=1)
+                 ^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'argmax'

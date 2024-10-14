@@ -1,0 +1,18 @@
+{"time":"2024-10-14T04:56:59.7620738+03:00","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-14T04:56:59.7620738+03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\wandb\\run-20241014_045659-kiqrkevi\\logs\\debug-core.log"}
+{"time":"2024-10-14T04:56:59.7671278+03:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-14T04:56:59.7809403+03:00","level":"INFO","msg":"created new stream","id":"kiqrkevi"}
+{"time":"2024-10-14T04:56:59.7810347+03:00","level":"INFO","msg":"stream: started","id":"kiqrkevi"}
+{"time":"2024-10-14T04:56:59.7810347+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kiqrkevi"}}
+{"time":"2024-10-14T04:56:59.7810347+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kiqrkevi"}}
+{"time":"2024-10-14T04:56:59.7810347+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"kiqrkevi"}}
+{"time":"2024-10-14T04:57:00.1178038+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-14T04:57:00.120517+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-14T04:57:08.787783+03:00","level":"INFO","msg":"stream: closing","id":"kiqrkevi"}
+{"time":"2024-10-14T04:57:08.7883032+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-14T04:57:08.7888061+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-14T04:57:11.3313292+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-14T04:57:11.5551407+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kiqrkevi"}}
+{"time":"2024-10-14T04:57:11.555644+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kiqrkevi"}}
+{"time":"2024-10-14T04:57:11.5556508+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"kiqrkevi"}}
+{"time":"2024-10-14T04:57:11.5557155+03:00","level":"INFO","msg":"stream: closed","id":"kiqrkevi"}

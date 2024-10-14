@@ -1,0 +1,18 @@
+{"time":"2024-10-08T01:20:35.7218949+03:00","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-08T01:20:35.7225013+03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\wandb\\run-20241008_012035-ygstlgvd\\logs\\debug-core.log"}
+{"time":"2024-10-08T01:20:35.748311+03:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T01:20:35.7642983+03:00","level":"INFO","msg":"created new stream","id":"ygstlgvd"}
+{"time":"2024-10-08T01:20:35.7648581+03:00","level":"INFO","msg":"stream: started","id":"ygstlgvd"}
+{"time":"2024-10-08T01:20:35.7648581+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ygstlgvd"}}
+{"time":"2024-10-08T01:20:35.7648581+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ygstlgvd"}}
+{"time":"2024-10-08T01:20:35.7648581+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ygstlgvd"}}
+{"time":"2024-10-08T01:20:36.0685202+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T01:20:36.074073+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T01:25:42.2640746+03:00","level":"INFO","msg":"stream: closing","id":"ygstlgvd"}
+{"time":"2024-10-08T01:25:42.2645835+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T01:25:42.2645835+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T01:25:42.9739422+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T01:25:43.1800929+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ygstlgvd"}}
+{"time":"2024-10-08T01:25:43.1801943+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ygstlgvd"}}
+{"time":"2024-10-08T01:25:43.1801943+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ygstlgvd"}}
+{"time":"2024-10-08T01:25:43.1803499+03:00","level":"INFO","msg":"stream: closed","id":"ygstlgvd"}

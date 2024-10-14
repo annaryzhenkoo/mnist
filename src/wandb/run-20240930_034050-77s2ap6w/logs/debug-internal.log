@@ -1,0 +1,18 @@
+{"time":"2024-09-30T03:40:50.9181795+03:00","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-09-30T03:40:50.918218+03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\wandb\\run-20240930_034050-77s2ap6w\\logs\\debug-core.log"}
+{"time":"2024-09-30T03:40:50.9205494+03:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-09-30T03:40:50.9360155+03:00","level":"INFO","msg":"created new stream","id":"77s2ap6w"}
+{"time":"2024-09-30T03:40:50.9365959+03:00","level":"INFO","msg":"stream: started","id":"77s2ap6w"}
+{"time":"2024-09-30T03:40:50.9365959+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"77s2ap6w"}}
+{"time":"2024-09-30T03:40:50.9365959+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"77s2ap6w"}}
+{"time":"2024-09-30T03:40:50.9365959+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"77s2ap6w"}}
+{"time":"2024-09-30T03:40:51.2828222+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-30T03:40:51.2901581+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-30T03:43:53.7351331+03:00","level":"INFO","msg":"stream: closing","id":"77s2ap6w"}
+{"time":"2024-09-30T03:43:53.7361106+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-30T03:43:53.7366186+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-30T03:43:56.2702123+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-09-30T03:43:56.4699946+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"77s2ap6w"}}
+{"time":"2024-09-30T03:43:56.4699946+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"77s2ap6w"}}
+{"time":"2024-09-30T03:43:56.4699946+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"77s2ap6w"}}
+{"time":"2024-09-30T03:43:56.4705254+03:00","level":"INFO","msg":"stream: closed","id":"77s2ap6w"}

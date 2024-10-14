@@ -1,0 +1,32 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.12.0",
+  "startedAt": "2024-10-07T19:12:23.087239Z",
+  "program": "C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\train.py",
+  "codePath": "src\\train.py",
+  "git": {
+    "remote": "https://github.com/annaryzhenkoo/mnist.git",
+    "commit": "f0e617257171675640cb4a3b5884c97d08ebb41f"
+  },
+  "email": "a_ryzhenko@internet.ru",
+  "root": "C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src",
+  "host": "DESKTOP-TIMD68C",
+  "username": "a_ryz",
+  "executable": "C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\.venv\\Scripts\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "148137558016",
+      "used": "136170627072"
+    }
+  },
+  "memory": {
+    "total": "8425766912"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  }
+}

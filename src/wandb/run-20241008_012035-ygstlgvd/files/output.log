@@ -1,0 +1,107 @@
+Target:  tensor(5)
+False
+tensor(1.1511, grad_fn=<NllLossBackward0>)
+0
+Моя точность tensor(0.7869)
+tensor(0.6998, grad_fn=<NllLossBackward0>)
+1
+Моя точность tensor(0.8550)
+tensor(0.5684, grad_fn=<NllLossBackward0>)
+2
+Моя точность tensor(0.8782)
+tensor(0.5850, grad_fn=<NllLossBackward0>)
+3
+Моя точность tensor(0.8881)
+tensor(0.3687, grad_fn=<NllLossBackward0>)
+4
+Моя точность tensor(0.8918)
+tensor(0.3998, grad_fn=<NllLossBackward0>)
+5
+Моя точность tensor(0.8959)
+tensor(0.4198, grad_fn=<NllLossBackward0>)
+6
+Моя точность tensor(0.8992)
+tensor(0.3093, grad_fn=<NllLossBackward0>)
+7
+Моя точность tensor(0.9018)
+tensor(0.3789, grad_fn=<NllLossBackward0>)
+8
+Моя точность tensor(0.9026)
+tensor(0.3233, grad_fn=<NllLossBackward0>)
+9
+Моя точность tensor(0.9042)
+tensor(0.4152, grad_fn=<NllLossBackward0>)
+10
+Моя точность tensor(0.9054)
+tensor(0.5126, grad_fn=<NllLossBackward0>)
+11
+Моя точность tensor(0.9067)
+tensor(0.4010, grad_fn=<NllLossBackward0>)
+12
+Моя точность tensor(0.9072)
+tensor(0.4110, grad_fn=<NllLossBackward0>)
+13
+Моя точность tensor(0.9082)
+tensor(0.2951, grad_fn=<NllLossBackward0>)
+14
+Моя точность tensor(0.9082)
+tensor(0.3054, grad_fn=<NllLossBackward0>)
+15
+Моя точность tensor(0.9087)
+tensor(0.3903, grad_fn=<NllLossBackward0>)
+16
+Моя точность tensor(0.9097)
+tensor(0.2924, grad_fn=<NllLossBackward0>)
+17
+Моя точность tensor(0.9102)
+tensor(0.2436, grad_fn=<NllLossBackward0>)
+18
+Моя точность tensor(0.9106)
+tensor(0.3439, grad_fn=<NllLossBackward0>)
+19
+Моя точность tensor(0.9113)
+tensor(0.3417, grad_fn=<NllLossBackward0>)
+20
+Моя точность tensor(0.9115)
+tensor(0.3682, grad_fn=<NllLossBackward0>)
+21
+Моя точность tensor(0.9117)
+tensor(0.3999, grad_fn=<NllLossBackward0>)
+22
+Моя точность tensor(0.9116)
+tensor(0.4179, grad_fn=<NllLossBackward0>)
+23
+Моя точность tensor(0.9119)
+tensor(0.3046, grad_fn=<NllLossBackward0>)
+24
+Моя точность tensor(0.9123)
+tensor(0.2837, grad_fn=<NllLossBackward0>)
+25
+Моя точность tensor(0.9125)
+tensor(0.2842, grad_fn=<NllLossBackward0>)
+26
+Моя точность tensor(0.9124)
+tensor(0.2691, grad_fn=<NllLossBackward0>)
+27
+Моя точность tensor(0.9124)
+tensor(0.2620, grad_fn=<NllLossBackward0>)
+28
+Моя точность tensor(0.9130)
+tensor(0.2731, grad_fn=<NllLossBackward0>)
+29
+Моя точность tensor(0.9129)
+tensor(0.4486, grad_fn=<NllLossBackward0>)
+30
+Моя точность tensor(0.9130)
+tensor(0.3902, grad_fn=<NllLossBackward0>)
+31
+Моя точность tensor(0.9131)
+tensor(0.3543, grad_fn=<NllLossBackward0>)
+32
+Моя точность tensor(0.9133)
+tensor(0.3154, grad_fn=<NllLossBackward0>)
+33
+Моя точность tensor(0.9133)
+tensor(0.2516, grad_fn=<NllLossBackward0>)
+34
+Моя точность tensor(0.9134)

@@ -1,0 +1,18 @@
+{"time":"2024-10-14T05:07:40.6165624+03:00","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-14T05:07:40.6167105+03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\a_ryz\\PycharmProjects\\MNIST_Anna\\src\\wandb\\run-20241014_050740-mqi23lii\\logs\\debug-core.log"}
+{"time":"2024-10-14T05:07:40.619602+03:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-14T05:07:40.6354948+03:00","level":"INFO","msg":"created new stream","id":"mqi23lii"}
+{"time":"2024-10-14T05:07:40.6361065+03:00","level":"INFO","msg":"stream: started","id":"mqi23lii"}
+{"time":"2024-10-14T05:07:40.6361065+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mqi23lii"}}
+{"time":"2024-10-14T05:07:40.6361065+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mqi23lii"}}
+{"time":"2024-10-14T05:07:40.6361065+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"mqi23lii"}}
+{"time":"2024-10-14T05:07:40.9638107+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-14T05:07:40.9660925+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-14T05:09:20.4024592+03:00","level":"INFO","msg":"stream: closing","id":"mqi23lii"}
+{"time":"2024-10-14T05:09:20.4024592+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-14T05:09:20.4024592+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-14T05:09:21.4019982+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-14T05:09:21.6064063+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"mqi23lii"}}
+{"time":"2024-10-14T05:09:21.6064063+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mqi23lii"}}
+{"time":"2024-10-14T05:09:21.6064063+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mqi23lii"}}
+{"time":"2024-10-14T05:09:21.6070084+03:00","level":"INFO","msg":"stream: closed","id":"mqi23lii"}
